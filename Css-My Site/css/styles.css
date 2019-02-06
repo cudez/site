@@ -1,0 +1,149 @@
+
+
+.top-container{
+background-color: #EAF6F6;
+position: relative;
+padding-top: 100px;
+
+/*padding-bottom: 150px;*/
+}
+
+
+body{
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 526.5%;
+  color: #66BFBF;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+
+}
+.second-font{
+  font-weight: normal;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  color: #11999E;
+}
+/*.middle-container{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}*/
+/*.bottom-container{
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}*/
+.Dev{
+  text-decoration: underline;
+}
+.cloud-bottom{
+
+  position: absolute;
+left: 300px;
+  bottom: 300px;
+}
+.cloud-top{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+.about-text{
+  width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: justify;
+    line-height: 2;
+
+}
+.skill-images{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.skill-images1{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+.skill-text{
+  text-align: justify;
+  color: #40514E;
+}
+.skill-text1{
+  text-align: justify;
+  color: #40514E;
+}
+hr{
+  border-width: 0 0 6px 0;
+  width: 5%;
+  border-style: dotted ;
+  color: #EAF6F6;
+}
+.profile{
+  margin-top: 30px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 50px 0;
+  margin-top: 40px;
+}
+.btn{
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 26px;
+  background: #66BFBF;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #11999E;
+  text-decoration: none;
+}
+.footer-link{
+  font-family: 'Merriweather', serif;
+  padding: 10px 20px;
+  color: #11999E;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: white;
+}
+.copy-right{
+  color: #EAF6F6;
+   font-size: 0.75rem;
+    padding-top:30px;
+}
+.msg{
+  margin: 50px auto;
+  width: 50%;
+  vertical-align: middle;
+  text-align: center;
+  line-height: 2;
+  color: #40514E;
+  }
